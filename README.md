@@ -1,5 +1,3 @@
-Tabii ki, işte İngilizce olarak README metni:
-
 ---
 
 # MAC Changer
